@@ -1,0 +1,15 @@
+Bagian 1
+14. Pesan kesalahan tersebut muncul karena kelas ProductTest_714220013 bukan turunan dari kelas Product_714220013. Jika ingin mengakses myType seharusnya mengubah akses protected :
+protected string myTipe = "Book";
+menjadi akses public :
+public string myTipe = "Book";
+
+19. Hasilnya null atau kosong karena property MyType tidak diatur dalam konstruktor.
+
+24. Menghasilkan output DVD karena property MyType sudah diatur dengan string "DVD".
+
+Bagian 2
+8. Title dari buku tersebut tidak muncul karena pada parameter MyTitle berupa tipe data int seharusya parameter MyTitle memiliki tipe data string.
+
+12. Judul buku tampil pada output karena pada konstruktor Book_714220013 telah diubah dengan pemanggilan konstruktor basis yang akan menginisialisasi dari property type dan title dari kelas Product_714220013
+
