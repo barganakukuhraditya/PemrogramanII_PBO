@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\bin\Debug\P5_3_714220013.exe.config
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\bin\Debug\P5_3_714220013.exe
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\bin\Debug\P5_3_714220013.pdb
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.Form1.resources
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.Properties.Resources.resources
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.csproj.GenerateResource.cache
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.exe
+C:\Users\hp\Documents\SEMESTER 3\PemrogramanII_PBO\Pertemuan05\Praktikum\P5_3_714220013\P5_3_714220013\obj\Debug\P5_3_714220013.pdb
