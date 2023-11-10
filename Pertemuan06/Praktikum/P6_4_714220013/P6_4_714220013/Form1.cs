@@ -179,9 +179,23 @@ namespace P6_4_714220013
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+            if ((txtND.Text).All(Char.IsNumber))
+            {
+                MessageBox.Show("Nama Depan tidak boleh mengandung angka!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             if (txtNB.Text == "")
             {
                 MessageBox.Show("Nama Belakang harus diisi!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if ((txtNB.Text).All(Char.IsNumber))
+            {
+                MessageBox.Show("Nama Belakang tidak boleh mengandung angka!",
                     "Warning!",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -200,9 +214,23 @@ namespace P6_4_714220013
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
+            if ((txtTelp.Text).All(Char.IsLetter))
+            {
+                MessageBox.Show("Nomor Telepon harus berisikan angka!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
             if (txtTamu.Text == "")
             {
                 MessageBox.Show("Jumlah Tamu harus diisi!",
+                    "Warning!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+            if ((txtTamu.Text).All(Char.IsLetter))
+            {
+                MessageBox.Show("Jumlah Tamu harus berisikan angka!",
                     "Warning!",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
