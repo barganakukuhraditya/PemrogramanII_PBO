@@ -24,7 +24,7 @@ namespace P9_714220013
             kon.Close();
         }
 
-        public void ExecuteNonQuery(string query)
+        public void ExecuteQuery(string query)
         {
             MySqlCommand command = new MySqlCommand(query, kon);
             command.ExecuteNonQuery();
