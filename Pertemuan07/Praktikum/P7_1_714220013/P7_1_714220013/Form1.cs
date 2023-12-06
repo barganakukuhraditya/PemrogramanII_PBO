@@ -75,9 +75,9 @@ namespace P7_1_714220013
         {
             if (rbMinggu.Checked)
             {
-                cbKuliah.Enabled = false;
-                cbTrav.Enabled = true;
-                cbTidur.Enabled = true;
+                cbKuliah.Enabled = false; cbKuliah.Checked = false;
+                cbTrav.Enabled = true; cbTrav.Checked = false;
+                cbTidur.Enabled = true; cbTidur.Checked = false;
             }
         }
 
